@@ -13,7 +13,7 @@ public class HomePage {
 	WebElement hobbiesCheckBox;
 	
 	WebElement lastNameTextBox;
-	
+	//This is home page
 	
   public HomePage(WebDriver driver)
 	
